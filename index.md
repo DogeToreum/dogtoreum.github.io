@@ -89,9 +89,9 @@ Dogetoreum is poised to redefine the blockchain landscape with its focus on acce
 
 Contact Information
 
-Website: Dogetoreum.org
+Website: Dogetoreum.com
 
-Community Forum: Discuss.Dogetoreum.org
+Community Forum: [Discord](https://discord.gg/V5SkDr2p)
 
 Social Media: @DogetoreumOfficial
 
