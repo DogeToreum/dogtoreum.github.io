@@ -120,4 +120,4 @@ Community Forum: [Discord](https://discord.gg/V5SkDr2p)
 
 Social Media: @DogetoreumOfficial
 
-Whitepaper Version: 1.0 | December 2024
+Whitepaper Version: 1.0 | Janurary 2025
